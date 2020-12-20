@@ -16,6 +16,7 @@
     相較於未使此方法的深度學習模型有平均提高2%的準確度，而此方法中最好的模型，提高了5%的準確度。
 
 執行方式 : 
+
     執行python PSO_main.py [iteration] [particle_num]
     iteration = 程式執行的迭代數
     particle_num = 粒子的個數
